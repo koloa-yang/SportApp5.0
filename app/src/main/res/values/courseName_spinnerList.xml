@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="courseName_list">
+        <item>动感单车</item>
+        <item>普拉提</item>
+        <item>高温瑜伽</item>
+        <item>仰卧起</item>
+    </string-array>
+</resources>
